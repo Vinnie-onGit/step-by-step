@@ -1,0 +1,18 @@
+version: "3.1"
+
+stories:
+  - story: Preventivo per una tapparella
+    steps:
+      - intent: generate_tapparella_quote
+      - action: tapparella_quote_form
+      - active_loop: tapparella_quote_form
+      - slot_was_set:
+          - dimensione: true
+          - materiale: true
+          - colore: true
+      - active_loop: null
+      - action: action_generate_tapparella_quote
+      - intent: confirm_tapparella
+      - action: utter_goodbye
+      # - active_loop: null
+

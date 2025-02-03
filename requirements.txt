@@ -1,0 +1,5 @@
+rasa
+requests
+beautifulsoup4
+fuzzywuzzy
+python-dotenv

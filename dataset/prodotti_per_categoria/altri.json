@@ -1,0 +1,926 @@
+[
+    {
+        "title": "Placca cieca per avvolgitore tapparelle",
+        "description": "Placca cieca per avvolgitore con interasse (distanza tra i fori della placca) di diverse misure sia per finestre che per balconi. Utile quando si passa dalle tapparelle con manovra a cinghia a quelle motorizzate per ricoprire il vuoto dove era presente l'avvolgitore.Disponibili colorate",
+        "price": "6,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2454_placcaciecaperavvolgitoretapparelle.jpg",
+        "link": "https://www.letapparelle.com/pulsanti_e_placche/placca_cieca_per_avvolgitore_tapparelle_2454.html"
+    },
+    {
+        "title": "Contenitore Gewiss per tre pulsanti",
+        "description": "Predisposizione per tre pulsanti. Grado di protezione IP40.",
+        "price": "4,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1645_contenitoregewisspertrepulsanti.jpg",
+        "link": "https://www.letapparelle.com/pulsanti_e_placche/contenitore_gewiss_per_tre_pulsanti_1645.html"
+    },
+    {
+        "title": "Contenitore Gewiss esterno per tre pulsanti",
+        "description": "Predisposizione per tre pulsanti. Grado di protezione IP55.",
+        "price": "6,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1647_contenitoregewissesternopertrepulsanti.jpg",
+        "link": "https://www.letapparelle.com/pulsanti_e_placche/contenitore_gewiss_esterno_per_tre_pulsanti_1647.html"
+    },
+    {
+        "title": "Pila a bottone Duracell CR2430 3V",
+        "description": "Pila a bottone Duracell CR2430",
+        "price": "2,34",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1966_pila_a_bottone_duracell_cr2430_3v.jpg",
+        "link": "https://www.letapparelle.com/radiocomandi_monodirezionali/pila_a_bottone_duracell_cr2430_3v_1966.html"
+    },
+    {
+        "title": "Centralina Radio per automazione motori",
+        "description": "Con questa centralina è possibile rendere radiocomandati i motori normali. Alla centralina va abbinato un radiocomando a scelta tra i modelli disponibili. Centralina normale",
+        "price": "36,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/342_centralinaradioperautomazionemotorifbfb.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/centralina_radio_per_automazione_motori_342.html"
+    },
+    {
+        "title": "Moes - Centralina Domotica WiFi per automazione",
+        "description": "Con questa centralina WiFi è possibile comandare tutti i motori radiocomandati creando gli appositi scenari in radiofrequenza gestendoli tramite telefono (Alexa, Google). La centralina gestisce dispositivi che operano in IR (infrarossi) ed RF (radiofrequenza). Smart Life.",
+        "price": "29,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2374_moes-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/moes_centralina_domotica_wifi_per_automazione_2374.html"
+    },
+    {
+        "title": "Sensore Allarme WiFi per porte e Finestre",
+        "description": "Sensore allarme WiFi per rilevamento apertura e chiusura porte, finestre. Applicazione dedicata Smart Life",
+        "price": "22,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2606_sensoreallarmewifiperporteefinestre.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sensore_allarme_wifi_per_porte_e_finestre_2606.html"
+    },
+    {
+        "title": "Bridge DD7002B - Centralina Domotica WiFi",
+        "description": "Con la centralina WiFi DD7002B è possibile comandare tutti i motori radiocomandati creando gli appositi scenari gestendoli tramite telefono (Alexa, Google). La centralina gestisce dispositivi che operano in RF (radiofrequenza) tramite l'app Connector .",
+        "price": "129,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3625_bridge_dd7002b_-_centralina_domotica_wifi.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/bridge_dd7002b_centralina_domotica_wifi_3625.html"
+    },
+    {
+        "title": "Proxe - Centralina Domotica WiFi per automazione motori",
+        "description": "Con questa centralina WiFi è possibile comandare i motori gestendoli tramite telefono (Alexa, Google).  La centraline è destinata ai motori per avvolgibili o tende da sole, alimentanti a 220V che prevedono la fase di salita e la fase di discesa.\r\nApplicazione dedicata Tuja.",
+        "price": "29,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2941_proxe-centrali2nadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/proxe_centralina_domotica_wifi_per_automazione_motori_2941.html"
+    },
+    {
+        "title": "Shelly Plus 2PM - Centralina Domotica WiFi per automazione motori",
+        "description": "Con questa centralina WiFi è possibile comandare i motori gestendoli tramite telefono (Alexa, Google).  Il dispositivo Shelly Plus 2PM supporta i comandi Alexa e Google Home, tramite qualsiasi dispositivo come smartphone, pc che supporti i protocolli HTTP, UDP e MQTT.",
+        "price": "29,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3222_shelly_plus_2pm_-_centralina_domotica_wifi_per_automazione_motori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shelly_plus_2pm_centralina_domotica_wifi_per_automazione_motori_3222.html"
+    },
+    {
+        "title": "Shelly 1.0 - Centralina Domotica WiFi per punti luce",
+        "description": "Con questa centralina WiFi è possibile attivare e disattivare un punto luce o una presa.\r\nLa centraline è destinata alla gestione di apparecchiature, alimentante a 220 Volt ed a 12 Volt.Applicazione dedicata Shelly",
+        "price": "19,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2335_shelly_10_-_centralina_domotica_wifi_per_punti_luce2.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shelly_1.0_centralina_domotica_wifi_per_punti_luce_2335.html"
+    },
+    {
+        "title": "ShutterBox - Centralina Domotica WiFi per automazione motori",
+        "description": "Centralina WiFi con cui è possibile comandare motori tramite telefono (Alexa, Google).\r\nLa centraline è destinata ai motori per avvolgibili o tende da sole, alimentanti a 220V che prevedono la fase di salita e la fase di discesa.Applicazione dedicata BleBox",
+        "price": "34,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1482_shutterbox-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shutterbox_centralina_domotica_wifi_per_automazione_motori_1482.html"
+    },
+    {
+        "title": "ShutterBoxDC V2 - Centralina Domotica WiFi per automazione motori",
+        "description": "Con questa centralina WiFi è possibile comandare i motori gestendoli tramite telefono o tablet.\r\nLa centraline è destinata ai motori alimentanti a 12-24V che prevedono la fase di salita e la fase di discesa.Applicazione dedicata BleBox",
+        "price": "49,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2364_shutterboxdc-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shutterboxdc_v2_centralina_domotica_wifi_per_automazione_motori_2364.html"
+    },
+    {
+        "title": "DoorBox - Centralina domotica per apertura porte e cancelli a distanza",
+        "description": "Apertura porte da qualsiasi parte del mondo. Funziona con quasi tutte le serrature elettriche. Gestisce l'utente per consentire l'accesso solo alle persone selezionate.Applicazione dedicata BleBox",
+        "price": "52,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1684_doorbox---centralina-domotica-per-apertura-porte-e-cancelli-a-distanza.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/doorbox_centralina_domotica_per_apertura_porte_e_cancelli_a_distanza_1684.html"
+    },
+    {
+        "title": "Gatebox - Centralina Domotica WiFi per aprire/chiudere porte e cancelli",
+        "description": "gateBox ti consente non solo di aprire e chiudere cancelli, ma anche di controllarne lo stato dal tuo smartphone o tablet, senza la necessità di acquistare attrezzature aggiuntive o di pagare commissioni nascoste.Applicazione dedicata BleBox",
+        "price": "72,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1691_gatebox-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/gatebox_centralina_domotica_wifi_per_aprire/chiudere_porte_e_cancelli_1691.html"
+    },
+    {
+        "title": "DimmerBox - Centralina Domotica WiFi per gestire luci a 230V",
+        "description": "dimmerBox è il primo dispositivo al mondo che ti consente di accendere e abbassare le luci a 230 V in casa o in ufficio. Controlla le tue luci da uno smartphone o un tablet, indipendentemente da dove ti trovi.Applicazione dedicata BleBox",
+        "price": "49,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1686_dimmerbox-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/dimmerbox_centralina_domotica_wifi_per_gestire_luci_a_230v_1686.html"
+    },
+    {
+        "title": "WlightBox - Centralina Domotica WiFi per accendere / spegnere e gestire l'illuminazione colori RGBW",
+        "description": "Il più piccolo controller di luce wireless al mondo, wlightbox ti consente di controllare l'illuminazione a LED colorata (RGBW) e semplice. Può essere gestito non solo da smartphone e tablet, ma anche dal tuo computer.Applicazione dedicata BleBox",
+        "price": "36,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1687_wlightrbox-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/wlightbox_centralina_domotica_wifi_per_accendere_/_spegnere_e_gestire_lilluminazione_colori_rgbw_1687.html"
+    },
+    {
+        "title": "WlightBoxs - Centralina Domotica WiFi per accendere / spegnere e regolare LED",
+        "description": "Usando wLightBoxS puoi accendere, spegnere e anche regolare la luminosità delle luci a LED monocolore usando il tuo smartphone o tablet. È un'alternativa rispetto a wLightBox (controller LED RGBW).Applicazione dedicata BleBox",
+        "price": "34,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1688_wlightboxs-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/wlightboxs_centralina_domotica_wifi_per_accendere_/_spegnere_e_regolare_led_1688.html"
+    },
+    {
+        "title": "Switchbox - Centralina Domotica WiFi per accendere/spegnere dispositivi",
+        "description": "SwitchBox consente di accendere o spegnere in modalità wireless dispositivi elettrici alimentati da una tensione di rete di 230 V e fino a 3 kW di potenza. Applicazione dedicata BleBox",
+        "price": "54,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1692_switchbox-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/switchbox_centralina_domotica_wifi_per_accendere/spegnere_dispositivi_1692.html"
+    },
+    {
+        "title": "SwitchboxD - Centralina Domotica WiFi per accendere/spegnere dispositivi da 5A",
+        "description": "switchBoxD - “double” SwitchBox - può accendere o spegnere in modalità wireless i dispositivi elettrici a tensione principale e può controllare due carichi da 5A (in totale 2 kW). Adatto a dispositivi più piccoli.Applicazione dedicata BleBox",
+        "price": "47,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1690_switchboxd-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/switchboxd_centralina_domotica_wifi_per_accendere/spegnere_dispositivi_da_5a_1690.html"
+    },
+    {
+        "title": "Lightbox - Centralina Domotica WiFi per controllare l'illuminazione sia colorata RGB sia LED",
+        "description": "lightBox è il controller di luce wireless più piccolo al mondo che ti consente di controllare sia l'illuminazione colorata (RGB) che quella a LED semplice da uno smartphone o un tablet.Applicazione dedicata BleBox",
+        "price": "44,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1695_lightbox-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/lightbox_centralina_domotica_wifi_per_controllare_lilluminazione_sia_colorata_rgb_sia_led_1695.html"
+    },
+    {
+        "title": "Proxidimmer - Centralina Domotica WiFi per l'attivazione/disattivazione tramite rilevamento fisico",
+        "description": "SwitchBox consente di accendere o spegnere in modalità wireless dispositivi elettrici alimentati da una tensione di rete di 230 V e fino a 3 kW di potenza. Applicazione dedicata BleBox",
+        "price": "21,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1693_proxidimmer-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/proxidimmer_centralina_domotica_wifi_per_lattivazione/disattivazione_tramite_rilevamento_fisico_1693.html"
+    },
+    {
+        "title": "Proxiswitch - Sensore di prossimità per accendere/spegnere dispositivi tramite tocco/battito mani",
+        "description": "proxiSwitch è uno straordinario sensore di prossimità che ti consente di accendere / spegnere i dispositivi utilizzando il tocco o i movimenti delle mani.Applicazione dedicata BleBox",
+        "price": "22,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1694_proxiswitch-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/proxiswitch_sensore_di_prossimita_per_accendere/spegnere_dispositivi_tramite_tocco/battito_mani_1694.html"
+    },
+    {
+        "title": "TwilightSwitch - Centralina Domotica WiFi per controllare a distanza interruttori",
+        "description": "twilightSwitch è il più piccolo controller di interruttore economico per gestire l'illuminazione LED.Applicazione dedicata BleBox",
+        "price": "14,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1698_twilightswitch-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/twilightswitch_centralina_domotica_wifi_per_controllare_a_distanza_interruttori_1698.html"
+    },
+    {
+        "title": "AirSensor - sensore di qualità dell'aria",
+        "description": "airSensor è il tuo sensore di qualità dell'aria personale: ti tiene informato sulla presenza di polvere nociva sospesa in casa e fuori.Applicazione dedicata BleBox",
+        "price": "109,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1697_airsensor-sensorediqualitadellaria.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/airsensor_sensore_di_qualita_dellaria_1697.html"
+    },
+    {
+        "title": "TempSensor - sensore di temperatura",
+        "description": "TempSensor è il tuo sensore di temperatura Celsius con cronologia di un anno ed annesso grafico.\r\nRileva la temperatura da 55° a 125°Applicazione dedicata BleBox",
+        "price": "34,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2164_tempsensor-sensoreditemperatura.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/tempsensor_sensore_di_temperatura_2164.html"
+    },
+    {
+        "title": "Sonoff B02-B-A60 Lampadina smart white",
+        "description": "SONOFF WiFi Lampadina LED Smart a baionetta B02-B-A60, E27, 9W, 806Lm, doppio colore, luminosità e temperatura del colore regolabili tramite Alexa, controllo APP.Applicazione dedicata eWLink",
+        "price": "6,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2489_sonoffb02-b-a60lampadinasmartwhite.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_b02ba60_lampadina_smart_white_2489.html"
+    },
+    {
+        "title": "Sonoff DUAL R3 Switch smart WIFI 2 canali PER TAPPARELLE",
+        "description": "Interruttore Della Luce Intelligente, SONOFF DUAL R3 2-Gang 2-Way Smart Interruttore Wi-Fi Sostieni Alexa e Siri, Misurazione della potenza, 3 modalità di lavoro, funziona con porte da persianeApplicazione dedicata eWLink",
+        "price": "24,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2495_sonoffdualr3switchsmartwifi2canalipertapparelle.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_dual_r3_switch_smart_wifi_2_canali_per_tapparelle_2495.html"
+    },
+    {
+        "title": "Sonoff B05-B-A60 Lampadina smart RGB",
+        "description": "SONOFF Lampadina Smart Con Luce Soffusa 2700k-6500k, RGB. Controllabile tramite WiFi luminosità e temperatura del colore, supportato Alexa, 2.4G wifi ed APP, A+Applicazione dedicata eWLink",
+        "price": "9,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2504_sonoffb05-b-a60lampadinasmartrgb.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_b05ba60_lampadina_smart_rgb_2504.html"
+    },
+    {
+        "title": "Sonoff  5050RGB-2M prolunga striscia led 2 metri",
+        "description": "Prolunga per kit Sonoff led wifi. Sono luci in striscia per casa, intelligente, impermeabile ed anche rgb. Quando la lunghezza del kit non basta.Applicazione dedicata eWLink",
+        "price": "9,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2502_sonoff5050rgb-2mprolungastriscialed2metri.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_5050rgb2m_prolunga_striscia_led_2_metri_2502.html"
+    },
+    {
+        "title": "Sonoff 5050RGB-5M prolunga striscia led 5 metri",
+        "description": "Prolunga per kit Sonoff led wifi. Sono luci in striscia per casa, intelligente, impermeabile ed anche rgb. Quando la lunghezza del kit non basta.Applicazione dedicata eWLink",
+        "price": "14,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2503_sonoflf5050rgb-5mprolungastriscialed5metri.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_5050rgb5m_prolunga_striscia_led_5_metri_2503.html"
+    },
+    {
+        "title": "Pila a bottone Duracell CR2430 3V",
+        "description": "Pila a bottone Duracell CR2430",
+        "price": "2,34",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3577_pila_a_bottone_duracell_cr2430_3v.jpg",
+        "link": "https://www.letapparelle.com/radiocomandi_bidirezionali/pila_a_bottone_duracell_cr2430_3v_3577.html"
+    },
+    {
+        "title": "Centralina Ricevente Rollmatik EVO DD117C",
+        "description": "Con questa centralina BIDIREZIONALE è possibile rendere radiocomandati i motori normali. Alla centralina va abbinato un radiocomando della serie EVO  a scelta tra i modelli disponibili. Centralina normale bidirezionale",
+        "price": "39,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3433_centralina_ricevente_rollmatik_evo_dd117c.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica_bidirez./centralina_ricevente_rollmatik_evo_dd117c_3433.html"
+    },
+    {
+        "title": "Bridge DD7002B - Centralina Domotica bidirezionale WiFi",
+        "description": "Con la centralina WiFi DD7002B è possibile comandare tutti i motori radiocomandati bidirezionali creando gli appositi scenari gestendoli tramite telefono (Alexa, Google). La centralina gestisce dispositivi che operano in RF (radiofrequenza) tramite l'app Connector .",
+        "price": "129,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3610_bridge_-_centralina_domotica_wifi_per_automazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica_bidirez./bridge_dd7002b_centralina_domotica_bidirezionale_wifi_3610.html"
+    },
+    {
+        "title": "Placca cieca per avvolgitore tapparelle",
+        "description": "Placca cieca per avvolgitore con interasse (distanza tra i fori della placca) di diverse misure sia per finestre che per balconi. Utile quando si passa dalle tapparelle con manovra a cinghia a quelle motorizzate per ricoprire il vuoto dove era presente l'avvolgitore.Disponibili colorate",
+        "price": "6,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2454_placcaciecaperavvolgitoretapparelle.jpg",
+        "link": "https://www.letapparelle.com/pulsanti_e_placche/placca_cieca_per_avvolgitore_tapparelle_2454.html"
+    },
+    {
+        "title": "Contenitore Gewiss per tre pulsanti",
+        "description": "Predisposizione per tre pulsanti. Grado di protezione IP40.",
+        "price": "4,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1645_contenitoregewisspertrepulsanti.jpg",
+        "link": "https://www.letapparelle.com/pulsanti_e_placche/contenitore_gewiss_per_tre_pulsanti_1645.html"
+    },
+    {
+        "title": "Contenitore Gewiss esterno per tre pulsanti",
+        "description": "Predisposizione per tre pulsanti. Grado di protezione IP55.",
+        "price": "6,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1647_contenitoregewissesternopertrepulsanti.jpg",
+        "link": "https://www.letapparelle.com/pulsanti_e_placche/contenitore_gewiss_esterno_per_tre_pulsanti_1647.html"
+    },
+    {
+        "title": "Pila a bottone Duracell CR2430 3V",
+        "description": "Pila a bottone Duracell CR2430",
+        "price": "2,34",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1966_pila_a_bottone_duracell_cr2430_3v.jpg",
+        "link": "https://www.letapparelle.com/radiocomandi_monodirezionali/pila_a_bottone_duracell_cr2430_3v_1966.html"
+    },
+    {
+        "title": "Centralina Radio per automazione motori",
+        "description": "Con questa centralina è possibile rendere radiocomandati i motori normali. Alla centralina va abbinato un radiocomando a scelta tra i modelli disponibili. Centralina normale",
+        "price": "36,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/342_centralinaradioperautomazionemotorifbfb.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/centralina_radio_per_automazione_motori_342.html"
+    },
+    {
+        "title": "Moes - Centralina Domotica WiFi per automazione",
+        "description": "Con questa centralina WiFi è possibile comandare tutti i motori radiocomandati creando gli appositi scenari in radiofrequenza gestendoli tramite telefono (Alexa, Google). La centralina gestisce dispositivi che operano in IR (infrarossi) ed RF (radiofrequenza). Smart Life.",
+        "price": "29,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2374_moes-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/moes_centralina_domotica_wifi_per_automazione_2374.html"
+    },
+    {
+        "title": "Sensore Allarme WiFi per porte e Finestre",
+        "description": "Sensore allarme WiFi per rilevamento apertura e chiusura porte, finestre. Applicazione dedicata Smart Life",
+        "price": "22,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2606_sensoreallarmewifiperporteefinestre.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sensore_allarme_wifi_per_porte_e_finestre_2606.html"
+    },
+    {
+        "title": "Bridge DD7002B - Centralina Domotica WiFi",
+        "description": "Con la centralina WiFi DD7002B è possibile comandare tutti i motori radiocomandati creando gli appositi scenari gestendoli tramite telefono (Alexa, Google). La centralina gestisce dispositivi che operano in RF (radiofrequenza) tramite l'app Connector .",
+        "price": "129,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3625_bridge_dd7002b_-_centralina_domotica_wifi.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/bridge_dd7002b_centralina_domotica_wifi_3625.html"
+    },
+    {
+        "title": "Proxe - Centralina Domotica WiFi per automazione motori",
+        "description": "Con questa centralina WiFi è possibile comandare i motori gestendoli tramite telefono (Alexa, Google).  La centraline è destinata ai motori per avvolgibili o tende da sole, alimentanti a 220V che prevedono la fase di salita e la fase di discesa.\r\nApplicazione dedicata Tuja.",
+        "price": "29,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2941_proxe-centrali2nadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/proxe_centralina_domotica_wifi_per_automazione_motori_2941.html"
+    },
+    {
+        "title": "Shelly Plus 2PM - Centralina Domotica WiFi per automazione motori",
+        "description": "Con questa centralina WiFi è possibile comandare i motori gestendoli tramite telefono (Alexa, Google).  Il dispositivo Shelly Plus 2PM supporta i comandi Alexa e Google Home, tramite qualsiasi dispositivo come smartphone, pc che supporti i protocolli HTTP, UDP e MQTT.",
+        "price": "29,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3222_shelly_plus_2pm_-_centralina_domotica_wifi_per_automazione_motori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shelly_plus_2pm_centralina_domotica_wifi_per_automazione_motori_3222.html"
+    },
+    {
+        "title": "Shelly 1.0 - Centralina Domotica WiFi per punti luce",
+        "description": "Con questa centralina WiFi è possibile attivare e disattivare un punto luce o una presa.\r\nLa centraline è destinata alla gestione di apparecchiature, alimentante a 220 Volt ed a 12 Volt.Applicazione dedicata Shelly",
+        "price": "19,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2335_shelly_10_-_centralina_domotica_wifi_per_punti_luce2.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shelly_1.0_centralina_domotica_wifi_per_punti_luce_2335.html"
+    },
+    {
+        "title": "ShutterBox - Centralina Domotica WiFi per automazione motori",
+        "description": "Centralina WiFi con cui è possibile comandare motori tramite telefono (Alexa, Google).\r\nLa centraline è destinata ai motori per avvolgibili o tende da sole, alimentanti a 220V che prevedono la fase di salita e la fase di discesa.Applicazione dedicata BleBox",
+        "price": "34,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1482_shutterbox-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shutterbox_centralina_domotica_wifi_per_automazione_motori_1482.html"
+    },
+    {
+        "title": "ShutterBoxDC V2 - Centralina Domotica WiFi per automazione motori",
+        "description": "Con questa centralina WiFi è possibile comandare i motori gestendoli tramite telefono o tablet.\r\nLa centraline è destinata ai motori alimentanti a 12-24V che prevedono la fase di salita e la fase di discesa.Applicazione dedicata BleBox",
+        "price": "49,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2364_shutterboxdc-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shutterboxdc_v2_centralina_domotica_wifi_per_automazione_motori_2364.html"
+    },
+    {
+        "title": "DoorBox - Centralina domotica per apertura porte e cancelli a distanza",
+        "description": "Apertura porte da qualsiasi parte del mondo. Funziona con quasi tutte le serrature elettriche. Gestisce l'utente per consentire l'accesso solo alle persone selezionate.Applicazione dedicata BleBox",
+        "price": "52,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1684_doorbox---centralina-domotica-per-apertura-porte-e-cancelli-a-distanza.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/doorbox_centralina_domotica_per_apertura_porte_e_cancelli_a_distanza_1684.html"
+    },
+    {
+        "title": "Gatebox - Centralina Domotica WiFi per aprire/chiudere porte e cancelli",
+        "description": "gateBox ti consente non solo di aprire e chiudere cancelli, ma anche di controllarne lo stato dal tuo smartphone o tablet, senza la necessità di acquistare attrezzature aggiuntive o di pagare commissioni nascoste.Applicazione dedicata BleBox",
+        "price": "72,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1691_gatebox-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/gatebox_centralina_domotica_wifi_per_aprire/chiudere_porte_e_cancelli_1691.html"
+    },
+    {
+        "title": "DimmerBox - Centralina Domotica WiFi per gestire luci a 230V",
+        "description": "dimmerBox è il primo dispositivo al mondo che ti consente di accendere e abbassare le luci a 230 V in casa o in ufficio. Controlla le tue luci da uno smartphone o un tablet, indipendentemente da dove ti trovi.Applicazione dedicata BleBox",
+        "price": "49,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1686_dimmerbox-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/dimmerbox_centralina_domotica_wifi_per_gestire_luci_a_230v_1686.html"
+    },
+    {
+        "title": "WlightBox - Centralina Domotica WiFi per accendere / spegnere e gestire l'illuminazione colori RGBW",
+        "description": "Il più piccolo controller di luce wireless al mondo, wlightbox ti consente di controllare l'illuminazione a LED colorata (RGBW) e semplice. Può essere gestito non solo da smartphone e tablet, ma anche dal tuo computer.Applicazione dedicata BleBox",
+        "price": "36,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1687_wlightrbox-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/wlightbox_centralina_domotica_wifi_per_accendere_/_spegnere_e_gestire_lilluminazione_colori_rgbw_1687.html"
+    },
+    {
+        "title": "WlightBoxs - Centralina Domotica WiFi per accendere / spegnere e regolare LED",
+        "description": "Usando wLightBoxS puoi accendere, spegnere e anche regolare la luminosità delle luci a LED monocolore usando il tuo smartphone o tablet. È un'alternativa rispetto a wLightBox (controller LED RGBW).Applicazione dedicata BleBox",
+        "price": "34,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1688_wlightboxs-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/wlightboxs_centralina_domotica_wifi_per_accendere_/_spegnere_e_regolare_led_1688.html"
+    },
+    {
+        "title": "Switchbox - Centralina Domotica WiFi per accendere/spegnere dispositivi",
+        "description": "SwitchBox consente di accendere o spegnere in modalità wireless dispositivi elettrici alimentati da una tensione di rete di 230 V e fino a 3 kW di potenza. Applicazione dedicata BleBox",
+        "price": "54,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1692_switchbox-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/switchbox_centralina_domotica_wifi_per_accendere/spegnere_dispositivi_1692.html"
+    },
+    {
+        "title": "SwitchboxD - Centralina Domotica WiFi per accendere/spegnere dispositivi da 5A",
+        "description": "switchBoxD - “double” SwitchBox - può accendere o spegnere in modalità wireless i dispositivi elettrici a tensione principale e può controllare due carichi da 5A (in totale 2 kW). Adatto a dispositivi più piccoli.Applicazione dedicata BleBox",
+        "price": "47,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1690_switchboxd-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/switchboxd_centralina_domotica_wifi_per_accendere/spegnere_dispositivi_da_5a_1690.html"
+    },
+    {
+        "title": "Lightbox - Centralina Domotica WiFi per controllare l'illuminazione sia colorata RGB sia LED",
+        "description": "lightBox è il controller di luce wireless più piccolo al mondo che ti consente di controllare sia l'illuminazione colorata (RGB) che quella a LED semplice da uno smartphone o un tablet.Applicazione dedicata BleBox",
+        "price": "44,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1695_lightbox-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/lightbox_centralina_domotica_wifi_per_controllare_lilluminazione_sia_colorata_rgb_sia_led_1695.html"
+    },
+    {
+        "title": "Proxidimmer - Centralina Domotica WiFi per l'attivazione/disattivazione tramite rilevamento fisico",
+        "description": "SwitchBox consente di accendere o spegnere in modalità wireless dispositivi elettrici alimentati da una tensione di rete di 230 V e fino a 3 kW di potenza. Applicazione dedicata BleBox",
+        "price": "21,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1693_proxidimmer-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/proxidimmer_centralina_domotica_wifi_per_lattivazione/disattivazione_tramite_rilevamento_fisico_1693.html"
+    },
+    {
+        "title": "Proxiswitch - Sensore di prossimità per accendere/spegnere dispositivi tramite tocco/battito mani",
+        "description": "proxiSwitch è uno straordinario sensore di prossimità che ti consente di accendere / spegnere i dispositivi utilizzando il tocco o i movimenti delle mani.Applicazione dedicata BleBox",
+        "price": "22,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1694_proxiswitch-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/proxiswitch_sensore_di_prossimita_per_accendere/spegnere_dispositivi_tramite_tocco/battito_mani_1694.html"
+    },
+    {
+        "title": "TwilightSwitch - Centralina Domotica WiFi per controllare a distanza interruttori",
+        "description": "twilightSwitch è il più piccolo controller di interruttore economico per gestire l'illuminazione LED.Applicazione dedicata BleBox",
+        "price": "14,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1698_twilightswitch-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/twilightswitch_centralina_domotica_wifi_per_controllare_a_distanza_interruttori_1698.html"
+    },
+    {
+        "title": "AirSensor - sensore di qualità dell'aria",
+        "description": "airSensor è il tuo sensore di qualità dell'aria personale: ti tiene informato sulla presenza di polvere nociva sospesa in casa e fuori.Applicazione dedicata BleBox",
+        "price": "109,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1697_airsensor-sensorediqualitadellaria.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/airsensor_sensore_di_qualita_dellaria_1697.html"
+    },
+    {
+        "title": "TempSensor - sensore di temperatura",
+        "description": "TempSensor è il tuo sensore di temperatura Celsius con cronologia di un anno ed annesso grafico.\r\nRileva la temperatura da 55° a 125°Applicazione dedicata BleBox",
+        "price": "34,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2164_tempsensor-sensoreditemperatura.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/tempsensor_sensore_di_temperatura_2164.html"
+    },
+    {
+        "title": "Sonoff B02-B-A60 Lampadina smart white",
+        "description": "SONOFF WiFi Lampadina LED Smart a baionetta B02-B-A60, E27, 9W, 806Lm, doppio colore, luminosità e temperatura del colore regolabili tramite Alexa, controllo APP.Applicazione dedicata eWLink",
+        "price": "6,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2489_sonoffb02-b-a60lampadinasmartwhite.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_b02ba60_lampadina_smart_white_2489.html"
+    },
+    {
+        "title": "Sonoff DUAL R3 Switch smart WIFI 2 canali PER TAPPARELLE",
+        "description": "Interruttore Della Luce Intelligente, SONOFF DUAL R3 2-Gang 2-Way Smart Interruttore Wi-Fi Sostieni Alexa e Siri, Misurazione della potenza, 3 modalità di lavoro, funziona con porte da persianeApplicazione dedicata eWLink",
+        "price": "24,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2495_sonoffdualr3switchsmartwifi2canalipertapparelle.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_dual_r3_switch_smart_wifi_2_canali_per_tapparelle_2495.html"
+    },
+    {
+        "title": "Sonoff B05-B-A60 Lampadina smart RGB",
+        "description": "SONOFF Lampadina Smart Con Luce Soffusa 2700k-6500k, RGB. Controllabile tramite WiFi luminosità e temperatura del colore, supportato Alexa, 2.4G wifi ed APP, A+Applicazione dedicata eWLink",
+        "price": "9,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2504_sonoffb05-b-a60lampadinasmartrgb.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_b05ba60_lampadina_smart_rgb_2504.html"
+    },
+    {
+        "title": "Sonoff  5050RGB-2M prolunga striscia led 2 metri",
+        "description": "Prolunga per kit Sonoff led wifi. Sono luci in striscia per casa, intelligente, impermeabile ed anche rgb. Quando la lunghezza del kit non basta.Applicazione dedicata eWLink",
+        "price": "9,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2502_sonoff5050rgb-2mprolungastriscialed2metri.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_5050rgb2m_prolunga_striscia_led_2_metri_2502.html"
+    },
+    {
+        "title": "Sonoff 5050RGB-5M prolunga striscia led 5 metri",
+        "description": "Prolunga per kit Sonoff led wifi. Sono luci in striscia per casa, intelligente, impermeabile ed anche rgb. Quando la lunghezza del kit non basta.Applicazione dedicata eWLink",
+        "price": "14,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2503_sonoflf5050rgb-5mprolungastriscialed5metri.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_5050rgb5m_prolunga_striscia_led_5_metri_2503.html"
+    },
+    {
+        "title": "Placca cieca per avvolgitore tapparelle",
+        "description": "Placca cieca per avvolgitore con interasse (distanza tra i fori della placca) di diverse misure sia per finestre che per balconi. Utile quando si passa dalle tapparelle con manovra a cinghia a quelle motorizzate per ricoprire il vuoto dove era presente l'avvolgitore.Disponibili colorate",
+        "price": "6,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2454_placcaciecaperavvolgitoretapparelle.jpg",
+        "link": "https://www.letapparelle.com/pulsanti_e_placche/placca_cieca_per_avvolgitore_tapparelle_2454.html"
+    },
+    {
+        "title": "Contenitore Gewiss per tre pulsanti",
+        "description": "Predisposizione per tre pulsanti. Grado di protezione IP40.",
+        "price": "4,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1645_contenitoregewisspertrepulsanti.jpg",
+        "link": "https://www.letapparelle.com/pulsanti_e_placche/contenitore_gewiss_per_tre_pulsanti_1645.html"
+    },
+    {
+        "title": "Contenitore Gewiss esterno per tre pulsanti",
+        "description": "Predisposizione per tre pulsanti. Grado di protezione IP55.",
+        "price": "6,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1647_contenitoregewissesternopertrepulsanti.jpg",
+        "link": "https://www.letapparelle.com/pulsanti_e_placche/contenitore_gewiss_esterno_per_tre_pulsanti_1647.html"
+    },
+    {
+        "title": "Pila a bottone Duracell CR2430 3V",
+        "description": "Pila a bottone Duracell CR2430",
+        "price": "2,34",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1966_pila_a_bottone_duracell_cr2430_3v.jpg",
+        "link": "https://www.letapparelle.com/radiocomandi_monodirezionali/pila_a_bottone_duracell_cr2430_3v_1966.html"
+    },
+    {
+        "title": "Centralina Radio per automazione motori",
+        "description": "Con questa centralina è possibile rendere radiocomandati i motori normali. Alla centralina va abbinato un radiocomando a scelta tra i modelli disponibili. Centralina normale",
+        "price": "36,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/342_centralinaradioperautomazionemotorifbfb.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/centralina_radio_per_automazione_motori_342.html"
+    },
+    {
+        "title": "Moes - Centralina Domotica WiFi per automazione",
+        "description": "Con questa centralina WiFi è possibile comandare tutti i motori radiocomandati creando gli appositi scenari in radiofrequenza gestendoli tramite telefono (Alexa, Google). La centralina gestisce dispositivi che operano in IR (infrarossi) ed RF (radiofrequenza). Smart Life.",
+        "price": "29,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2374_moes-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/moes_centralina_domotica_wifi_per_automazione_2374.html"
+    },
+    {
+        "title": "Sensore Allarme WiFi per porte e Finestre",
+        "description": "Sensore allarme WiFi per rilevamento apertura e chiusura porte, finestre. Applicazione dedicata Smart Life",
+        "price": "22,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2606_sensoreallarmewifiperporteefinestre.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sensore_allarme_wifi_per_porte_e_finestre_2606.html"
+    },
+    {
+        "title": "Bridge DD7002B - Centralina Domotica WiFi",
+        "description": "Con la centralina WiFi DD7002B è possibile comandare tutti i motori radiocomandati creando gli appositi scenari gestendoli tramite telefono (Alexa, Google). La centralina gestisce dispositivi che operano in RF (radiofrequenza) tramite l'app Connector .",
+        "price": "129,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3625_bridge_dd7002b_-_centralina_domotica_wifi.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/bridge_dd7002b_centralina_domotica_wifi_3625.html"
+    },
+    {
+        "title": "Proxe - Centralina Domotica WiFi per automazione motori",
+        "description": "Con questa centralina WiFi è possibile comandare i motori gestendoli tramite telefono (Alexa, Google).  La centraline è destinata ai motori per avvolgibili o tende da sole, alimentanti a 220V che prevedono la fase di salita e la fase di discesa.\r\nApplicazione dedicata Tuja.",
+        "price": "29,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2941_proxe-centrali2nadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/proxe_centralina_domotica_wifi_per_automazione_motori_2941.html"
+    },
+    {
+        "title": "Shelly Plus 2PM - Centralina Domotica WiFi per automazione motori",
+        "description": "Con questa centralina WiFi è possibile comandare i motori gestendoli tramite telefono (Alexa, Google).  Il dispositivo Shelly Plus 2PM supporta i comandi Alexa e Google Home, tramite qualsiasi dispositivo come smartphone, pc che supporti i protocolli HTTP, UDP e MQTT.",
+        "price": "29,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3222_shelly_plus_2pm_-_centralina_domotica_wifi_per_automazione_motori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shelly_plus_2pm_centralina_domotica_wifi_per_automazione_motori_3222.html"
+    },
+    {
+        "title": "Shelly 1.0 - Centralina Domotica WiFi per punti luce",
+        "description": "Con questa centralina WiFi è possibile attivare e disattivare un punto luce o una presa.\r\nLa centraline è destinata alla gestione di apparecchiature, alimentante a 220 Volt ed a 12 Volt.Applicazione dedicata Shelly",
+        "price": "19,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2335_shelly_10_-_centralina_domotica_wifi_per_punti_luce2.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shelly_1.0_centralina_domotica_wifi_per_punti_luce_2335.html"
+    },
+    {
+        "title": "ShutterBox - Centralina Domotica WiFi per automazione motori",
+        "description": "Centralina WiFi con cui è possibile comandare motori tramite telefono (Alexa, Google).\r\nLa centraline è destinata ai motori per avvolgibili o tende da sole, alimentanti a 220V che prevedono la fase di salita e la fase di discesa.Applicazione dedicata BleBox",
+        "price": "34,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1482_shutterbox-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shutterbox_centralina_domotica_wifi_per_automazione_motori_1482.html"
+    },
+    {
+        "title": "ShutterBoxDC V2 - Centralina Domotica WiFi per automazione motori",
+        "description": "Con questa centralina WiFi è possibile comandare i motori gestendoli tramite telefono o tablet.\r\nLa centraline è destinata ai motori alimentanti a 12-24V che prevedono la fase di salita e la fase di discesa.Applicazione dedicata BleBox",
+        "price": "49,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2364_shutterboxdc-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shutterboxdc_v2_centralina_domotica_wifi_per_automazione_motori_2364.html"
+    },
+    {
+        "title": "DoorBox - Centralina domotica per apertura porte e cancelli a distanza",
+        "description": "Apertura porte da qualsiasi parte del mondo. Funziona con quasi tutte le serrature elettriche. Gestisce l'utente per consentire l'accesso solo alle persone selezionate.Applicazione dedicata BleBox",
+        "price": "52,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1684_doorbox---centralina-domotica-per-apertura-porte-e-cancelli-a-distanza.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/doorbox_centralina_domotica_per_apertura_porte_e_cancelli_a_distanza_1684.html"
+    },
+    {
+        "title": "Gatebox - Centralina Domotica WiFi per aprire/chiudere porte e cancelli",
+        "description": "gateBox ti consente non solo di aprire e chiudere cancelli, ma anche di controllarne lo stato dal tuo smartphone o tablet, senza la necessità di acquistare attrezzature aggiuntive o di pagare commissioni nascoste.Applicazione dedicata BleBox",
+        "price": "72,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1691_gatebox-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/gatebox_centralina_domotica_wifi_per_aprire/chiudere_porte_e_cancelli_1691.html"
+    },
+    {
+        "title": "DimmerBox - Centralina Domotica WiFi per gestire luci a 230V",
+        "description": "dimmerBox è il primo dispositivo al mondo che ti consente di accendere e abbassare le luci a 230 V in casa o in ufficio. Controlla le tue luci da uno smartphone o un tablet, indipendentemente da dove ti trovi.Applicazione dedicata BleBox",
+        "price": "49,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1686_dimmerbox-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/dimmerbox_centralina_domotica_wifi_per_gestire_luci_a_230v_1686.html"
+    },
+    {
+        "title": "WlightBox - Centralina Domotica WiFi per accendere / spegnere e gestire l'illuminazione colori RGBW",
+        "description": "Il più piccolo controller di luce wireless al mondo, wlightbox ti consente di controllare l'illuminazione a LED colorata (RGBW) e semplice. Può essere gestito non solo da smartphone e tablet, ma anche dal tuo computer.Applicazione dedicata BleBox",
+        "price": "36,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1687_wlightrbox-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/wlightbox_centralina_domotica_wifi_per_accendere_/_spegnere_e_gestire_lilluminazione_colori_rgbw_1687.html"
+    },
+    {
+        "title": "WlightBoxs - Centralina Domotica WiFi per accendere / spegnere e regolare LED",
+        "description": "Usando wLightBoxS puoi accendere, spegnere e anche regolare la luminosità delle luci a LED monocolore usando il tuo smartphone o tablet. È un'alternativa rispetto a wLightBox (controller LED RGBW).Applicazione dedicata BleBox",
+        "price": "34,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1688_wlightboxs-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/wlightboxs_centralina_domotica_wifi_per_accendere_/_spegnere_e_regolare_led_1688.html"
+    },
+    {
+        "title": "Switchbox - Centralina Domotica WiFi per accendere/spegnere dispositivi",
+        "description": "SwitchBox consente di accendere o spegnere in modalità wireless dispositivi elettrici alimentati da una tensione di rete di 230 V e fino a 3 kW di potenza. Applicazione dedicata BleBox",
+        "price": "54,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1692_switchbox-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/switchbox_centralina_domotica_wifi_per_accendere/spegnere_dispositivi_1692.html"
+    },
+    {
+        "title": "SwitchboxD - Centralina Domotica WiFi per accendere/spegnere dispositivi da 5A",
+        "description": "switchBoxD - “double” SwitchBox - può accendere o spegnere in modalità wireless i dispositivi elettrici a tensione principale e può controllare due carichi da 5A (in totale 2 kW). Adatto a dispositivi più piccoli.Applicazione dedicata BleBox",
+        "price": "47,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1690_switchboxd-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/switchboxd_centralina_domotica_wifi_per_accendere/spegnere_dispositivi_da_5a_1690.html"
+    },
+    {
+        "title": "Lightbox - Centralina Domotica WiFi per controllare l'illuminazione sia colorata RGB sia LED",
+        "description": "lightBox è il controller di luce wireless più piccolo al mondo che ti consente di controllare sia l'illuminazione colorata (RGB) che quella a LED semplice da uno smartphone o un tablet.Applicazione dedicata BleBox",
+        "price": "44,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1695_lightbox-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/lightbox_centralina_domotica_wifi_per_controllare_lilluminazione_sia_colorata_rgb_sia_led_1695.html"
+    },
+    {
+        "title": "Proxidimmer - Centralina Domotica WiFi per l'attivazione/disattivazione tramite rilevamento fisico",
+        "description": "SwitchBox consente di accendere o spegnere in modalità wireless dispositivi elettrici alimentati da una tensione di rete di 230 V e fino a 3 kW di potenza. Applicazione dedicata BleBox",
+        "price": "21,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1693_proxidimmer-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/proxidimmer_centralina_domotica_wifi_per_lattivazione/disattivazione_tramite_rilevamento_fisico_1693.html"
+    },
+    {
+        "title": "Proxiswitch - Sensore di prossimità per accendere/spegnere dispositivi tramite tocco/battito mani",
+        "description": "proxiSwitch è uno straordinario sensore di prossimità che ti consente di accendere / spegnere i dispositivi utilizzando il tocco o i movimenti delle mani.Applicazione dedicata BleBox",
+        "price": "22,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1694_proxiswitch-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/proxiswitch_sensore_di_prossimita_per_accendere/spegnere_dispositivi_tramite_tocco/battito_mani_1694.html"
+    },
+    {
+        "title": "TwilightSwitch - Centralina Domotica WiFi per controllare a distanza interruttori",
+        "description": "twilightSwitch è il più piccolo controller di interruttore economico per gestire l'illuminazione LED.Applicazione dedicata BleBox",
+        "price": "14,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1698_twilightswitch-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/twilightswitch_centralina_domotica_wifi_per_controllare_a_distanza_interruttori_1698.html"
+    },
+    {
+        "title": "AirSensor - sensore di qualità dell'aria",
+        "description": "airSensor è il tuo sensore di qualità dell'aria personale: ti tiene informato sulla presenza di polvere nociva sospesa in casa e fuori.Applicazione dedicata BleBox",
+        "price": "109,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1697_airsensor-sensorediqualitadellaria.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/airsensor_sensore_di_qualita_dellaria_1697.html"
+    },
+    {
+        "title": "TempSensor - sensore di temperatura",
+        "description": "TempSensor è il tuo sensore di temperatura Celsius con cronologia di un anno ed annesso grafico.\r\nRileva la temperatura da 55° a 125°Applicazione dedicata BleBox",
+        "price": "34,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2164_tempsensor-sensoreditemperatura.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/tempsensor_sensore_di_temperatura_2164.html"
+    },
+    {
+        "title": "Sonoff B02-B-A60 Lampadina smart white",
+        "description": "SONOFF WiFi Lampadina LED Smart a baionetta B02-B-A60, E27, 9W, 806Lm, doppio colore, luminosità e temperatura del colore regolabili tramite Alexa, controllo APP.Applicazione dedicata eWLink",
+        "price": "6,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2489_sonoffb02-b-a60lampadinasmartwhite.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_b02ba60_lampadina_smart_white_2489.html"
+    },
+    {
+        "title": "Sonoff DUAL R3 Switch smart WIFI 2 canali PER TAPPARELLE",
+        "description": "Interruttore Della Luce Intelligente, SONOFF DUAL R3 2-Gang 2-Way Smart Interruttore Wi-Fi Sostieni Alexa e Siri, Misurazione della potenza, 3 modalità di lavoro, funziona con porte da persianeApplicazione dedicata eWLink",
+        "price": "24,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2495_sonoffdualr3switchsmartwifi2canalipertapparelle.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_dual_r3_switch_smart_wifi_2_canali_per_tapparelle_2495.html"
+    },
+    {
+        "title": "Sonoff B05-B-A60 Lampadina smart RGB",
+        "description": "SONOFF Lampadina Smart Con Luce Soffusa 2700k-6500k, RGB. Controllabile tramite WiFi luminosità e temperatura del colore, supportato Alexa, 2.4G wifi ed APP, A+Applicazione dedicata eWLink",
+        "price": "9,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2504_sonoffb05-b-a60lampadinasmartrgb.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_b05ba60_lampadina_smart_rgb_2504.html"
+    },
+    {
+        "title": "Sonoff  5050RGB-2M prolunga striscia led 2 metri",
+        "description": "Prolunga per kit Sonoff led wifi. Sono luci in striscia per casa, intelligente, impermeabile ed anche rgb. Quando la lunghezza del kit non basta.Applicazione dedicata eWLink",
+        "price": "9,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2502_sonoff5050rgb-2mprolungastriscialed2metri.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_5050rgb2m_prolunga_striscia_led_2_metri_2502.html"
+    },
+    {
+        "title": "Sonoff 5050RGB-5M prolunga striscia led 5 metri",
+        "description": "Prolunga per kit Sonoff led wifi. Sono luci in striscia per casa, intelligente, impermeabile ed anche rgb. Quando la lunghezza del kit non basta.Applicazione dedicata eWLink",
+        "price": "14,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2503_sonoflf5050rgb-5mprolungastriscialed5metri.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_5050rgb5m_prolunga_striscia_led_5_metri_2503.html"
+    },
+    {
+        "title": "Pila a bottone Duracell CR2430 3V",
+        "description": "Pila a bottone Duracell CR2430",
+        "price": "2,34",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3577_pila_a_bottone_duracell_cr2430_3v.jpg",
+        "link": "https://www.letapparelle.com/radiocomandi_bidirezionali/pila_a_bottone_duracell_cr2430_3v_3577.html"
+    },
+    {
+        "title": "Centralina Ricevente Rollmatik EVO DD117C",
+        "description": "Con questa centralina BIDIREZIONALE è possibile rendere radiocomandati i motori normali. Alla centralina va abbinato un radiocomando della serie EVO  a scelta tra i modelli disponibili. Centralina normale bidirezionale",
+        "price": "39,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3433_centralina_ricevente_rollmatik_evo_dd117c.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica_bidirez./centralina_ricevente_rollmatik_evo_dd117c_3433.html"
+    },
+    {
+        "title": "Bridge DD7002B - Centralina Domotica bidirezionale WiFi",
+        "description": "Con la centralina WiFi DD7002B è possibile comandare tutti i motori radiocomandati bidirezionali creando gli appositi scenari gestendoli tramite telefono (Alexa, Google). La centralina gestisce dispositivi che operano in RF (radiofrequenza) tramite l'app Connector .",
+        "price": "129,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3610_bridge_-_centralina_domotica_wifi_per_automazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica_bidirez./bridge_dd7002b_centralina_domotica_bidirezionale_wifi_3610.html"
+    },
+    {
+        "title": "Placca cieca per avvolgitore tapparelle",
+        "description": "Placca cieca per avvolgitore con interasse (distanza tra i fori della placca) di diverse misure sia per finestre che per balconi. Utile quando si passa dalle tapparelle con manovra a cinghia a quelle motorizzate per ricoprire il vuoto dove era presente l'avvolgitore.Disponibili colorate",
+        "price": "6,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2454_placcaciecaperavvolgitoretapparelle.jpg",
+        "link": "https://www.letapparelle.com/pulsanti_e_placche/placca_cieca_per_avvolgitore_tapparelle_2454.html"
+    },
+    {
+        "title": "Contenitore Gewiss per tre pulsanti",
+        "description": "Predisposizione per tre pulsanti. Grado di protezione IP40.",
+        "price": "4,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1645_contenitoregewisspertrepulsanti.jpg",
+        "link": "https://www.letapparelle.com/pulsanti_e_placche/contenitore_gewiss_per_tre_pulsanti_1645.html"
+    },
+    {
+        "title": "Contenitore Gewiss esterno per tre pulsanti",
+        "description": "Predisposizione per tre pulsanti. Grado di protezione IP55.",
+        "price": "6,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1647_contenitoregewissesternopertrepulsanti.jpg",
+        "link": "https://www.letapparelle.com/pulsanti_e_placche/contenitore_gewiss_esterno_per_tre_pulsanti_1647.html"
+    },
+    {
+        "title": "Pila a bottone Duracell CR2430 3V",
+        "description": "Pila a bottone Duracell CR2430",
+        "price": "2,34",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3577_pila_a_bottone_duracell_cr2430_3v.jpg",
+        "link": "https://www.letapparelle.com/radiocomandi_bidirezionali/pila_a_bottone_duracell_cr2430_3v_3577.html"
+    },
+    {
+        "title": "Centralina Ricevente Rollmatik EVO DD117C",
+        "description": "Con questa centralina BIDIREZIONALE è possibile rendere radiocomandati i motori normali. Alla centralina va abbinato un radiocomando della serie EVO  a scelta tra i modelli disponibili. Centralina normale bidirezionale",
+        "price": "39,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3433_centralina_ricevente_rollmatik_evo_dd117c.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica_bidirez./centralina_ricevente_rollmatik_evo_dd117c_3433.html"
+    },
+    {
+        "title": "Bridge DD7002B - Centralina Domotica bidirezionale WiFi",
+        "description": "Con la centralina WiFi DD7002B è possibile comandare tutti i motori radiocomandati bidirezionali creando gli appositi scenari gestendoli tramite telefono (Alexa, Google). La centralina gestisce dispositivi che operano in RF (radiofrequenza) tramite l'app Connector .",
+        "price": "129,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3610_bridge_-_centralina_domotica_wifi_per_automazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica_bidirez./bridge_dd7002b_centralina_domotica_bidirezionale_wifi_3610.html"
+    },
+    {
+        "title": "Centralina Radio per automazione motori",
+        "description": "Con questa centralina è possibile rendere radiocomandati i motori normali. Alla centralina va abbinato un radiocomando a scelta tra i modelli disponibili. Centralina normale",
+        "price": "36,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/342_centralinaradioperautomazionemotorifbfb.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/centralina_radio_per_automazione_motori_342.html"
+    },
+    {
+        "title": "Moes - Centralina Domotica WiFi per automazione",
+        "description": "Con questa centralina WiFi è possibile comandare tutti i motori radiocomandati creando gli appositi scenari in radiofrequenza gestendoli tramite telefono (Alexa, Google). La centralina gestisce dispositivi che operano in IR (infrarossi) ed RF (radiofrequenza). Smart Life.",
+        "price": "29,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2374_moes-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/moes_centralina_domotica_wifi_per_automazione_2374.html"
+    },
+    {
+        "title": "Sensore Allarme WiFi per porte e Finestre",
+        "description": "Sensore allarme WiFi per rilevamento apertura e chiusura porte, finestre. Applicazione dedicata Smart Life",
+        "price": "22,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2606_sensoreallarmewifiperporteefinestre.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sensore_allarme_wifi_per_porte_e_finestre_2606.html"
+    },
+    {
+        "title": "Bridge DD7002B - Centralina Domotica WiFi",
+        "description": "Con la centralina WiFi DD7002B è possibile comandare tutti i motori radiocomandati creando gli appositi scenari gestendoli tramite telefono (Alexa, Google). La centralina gestisce dispositivi che operano in RF (radiofrequenza) tramite l'app Connector .",
+        "price": "129,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3625_bridge_dd7002b_-_centralina_domotica_wifi.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/bridge_dd7002b_centralina_domotica_wifi_3625.html"
+    },
+    {
+        "title": "Proxe - Centralina Domotica WiFi per automazione motori",
+        "description": "Con questa centralina WiFi è possibile comandare i motori gestendoli tramite telefono (Alexa, Google).  La centraline è destinata ai motori per avvolgibili o tende da sole, alimentanti a 220V che prevedono la fase di salita e la fase di discesa.\r\nApplicazione dedicata Tuja.",
+        "price": "29,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2941_proxe-centrali2nadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/proxe_centralina_domotica_wifi_per_automazione_motori_2941.html"
+    },
+    {
+        "title": "Shelly Plus 2PM - Centralina Domotica WiFi per automazione motori",
+        "description": "Con questa centralina WiFi è possibile comandare i motori gestendoli tramite telefono (Alexa, Google).  Il dispositivo Shelly Plus 2PM supporta i comandi Alexa e Google Home, tramite qualsiasi dispositivo come smartphone, pc che supporti i protocolli HTTP, UDP e MQTT.",
+        "price": "29,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/3222_shelly_plus_2pm_-_centralina_domotica_wifi_per_automazione_motori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shelly_plus_2pm_centralina_domotica_wifi_per_automazione_motori_3222.html"
+    },
+    {
+        "title": "Shelly 1.0 - Centralina Domotica WiFi per punti luce",
+        "description": "Con questa centralina WiFi è possibile attivare e disattivare un punto luce o una presa.\r\nLa centraline è destinata alla gestione di apparecchiature, alimentante a 220 Volt ed a 12 Volt.Applicazione dedicata Shelly",
+        "price": "19,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2335_shelly_10_-_centralina_domotica_wifi_per_punti_luce2.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shelly_1.0_centralina_domotica_wifi_per_punti_luce_2335.html"
+    },
+    {
+        "title": "ShutterBox - Centralina Domotica WiFi per automazione motori",
+        "description": "Centralina WiFi con cui è possibile comandare motori tramite telefono (Alexa, Google).\r\nLa centraline è destinata ai motori per avvolgibili o tende da sole, alimentanti a 220V che prevedono la fase di salita e la fase di discesa.Applicazione dedicata BleBox",
+        "price": "34,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1482_shutterbox-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shutterbox_centralina_domotica_wifi_per_automazione_motori_1482.html"
+    },
+    {
+        "title": "ShutterBoxDC V2 - Centralina Domotica WiFi per automazione motori",
+        "description": "Con questa centralina WiFi è possibile comandare i motori gestendoli tramite telefono o tablet.\r\nLa centraline è destinata ai motori alimentanti a 12-24V che prevedono la fase di salita e la fase di discesa.Applicazione dedicata BleBox",
+        "price": "49,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2364_shutterboxdc-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/shutterboxdc_v2_centralina_domotica_wifi_per_automazione_motori_2364.html"
+    },
+    {
+        "title": "DoorBox - Centralina domotica per apertura porte e cancelli a distanza",
+        "description": "Apertura porte da qualsiasi parte del mondo. Funziona con quasi tutte le serrature elettriche. Gestisce l'utente per consentire l'accesso solo alle persone selezionate.Applicazione dedicata BleBox",
+        "price": "52,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1684_doorbox---centralina-domotica-per-apertura-porte-e-cancelli-a-distanza.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/doorbox_centralina_domotica_per_apertura_porte_e_cancelli_a_distanza_1684.html"
+    },
+    {
+        "title": "Gatebox - Centralina Domotica WiFi per aprire/chiudere porte e cancelli",
+        "description": "gateBox ti consente non solo di aprire e chiudere cancelli, ma anche di controllarne lo stato dal tuo smartphone o tablet, senza la necessità di acquistare attrezzature aggiuntive o di pagare commissioni nascoste.Applicazione dedicata BleBox",
+        "price": "72,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1691_gatebox-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/gatebox_centralina_domotica_wifi_per_aprire/chiudere_porte_e_cancelli_1691.html"
+    },
+    {
+        "title": "DimmerBox - Centralina Domotica WiFi per gestire luci a 230V",
+        "description": "dimmerBox è il primo dispositivo al mondo che ti consente di accendere e abbassare le luci a 230 V in casa o in ufficio. Controlla le tue luci da uno smartphone o un tablet, indipendentemente da dove ti trovi.Applicazione dedicata BleBox",
+        "price": "49,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1686_dimmerbox-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/dimmerbox_centralina_domotica_wifi_per_gestire_luci_a_230v_1686.html"
+    },
+    {
+        "title": "WlightBox - Centralina Domotica WiFi per accendere / spegnere e gestire l'illuminazione colori RGBW",
+        "description": "Il più piccolo controller di luce wireless al mondo, wlightbox ti consente di controllare l'illuminazione a LED colorata (RGBW) e semplice. Può essere gestito non solo da smartphone e tablet, ma anche dal tuo computer.Applicazione dedicata BleBox",
+        "price": "36,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1687_wlightrbox-centralinadomoticawifiperautomazionemotori.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/wlightbox_centralina_domotica_wifi_per_accendere_/_spegnere_e_gestire_lilluminazione_colori_rgbw_1687.html"
+    },
+    {
+        "title": "WlightBoxs - Centralina Domotica WiFi per accendere / spegnere e regolare LED",
+        "description": "Usando wLightBoxS puoi accendere, spegnere e anche regolare la luminosità delle luci a LED monocolore usando il tuo smartphone o tablet. È un'alternativa rispetto a wLightBox (controller LED RGBW).Applicazione dedicata BleBox",
+        "price": "34,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1688_wlightboxs-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/wlightboxs_centralina_domotica_wifi_per_accendere_/_spegnere_e_regolare_led_1688.html"
+    },
+    {
+        "title": "Switchbox - Centralina Domotica WiFi per accendere/spegnere dispositivi",
+        "description": "SwitchBox consente di accendere o spegnere in modalità wireless dispositivi elettrici alimentati da una tensione di rete di 230 V e fino a 3 kW di potenza. Applicazione dedicata BleBox",
+        "price": "54,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1692_switchbox-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/switchbox_centralina_domotica_wifi_per_accendere/spegnere_dispositivi_1692.html"
+    },
+    {
+        "title": "SwitchboxD - Centralina Domotica WiFi per accendere/spegnere dispositivi da 5A",
+        "description": "switchBoxD - “double” SwitchBox - può accendere o spegnere in modalità wireless i dispositivi elettrici a tensione principale e può controllare due carichi da 5A (in totale 2 kW). Adatto a dispositivi più piccoli.Applicazione dedicata BleBox",
+        "price": "47,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1690_switchboxd-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/switchboxd_centralina_domotica_wifi_per_accendere/spegnere_dispositivi_da_5a_1690.html"
+    },
+    {
+        "title": "Lightbox - Centralina Domotica WiFi per controllare l'illuminazione sia colorata RGB sia LED",
+        "description": "lightBox è il controller di luce wireless più piccolo al mondo che ti consente di controllare sia l'illuminazione colorata (RGB) che quella a LED semplice da uno smartphone o un tablet.Applicazione dedicata BleBox",
+        "price": "44,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1695_lightbox-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/lightbox_centralina_domotica_wifi_per_controllare_lilluminazione_sia_colorata_rgb_sia_led_1695.html"
+    },
+    {
+        "title": "Proxidimmer - Centralina Domotica WiFi per l'attivazione/disattivazione tramite rilevamento fisico",
+        "description": "SwitchBox consente di accendere o spegnere in modalità wireless dispositivi elettrici alimentati da una tensione di rete di 230 V e fino a 3 kW di potenza. Applicazione dedicata BleBox",
+        "price": "21,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1693_proxidimmer-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/proxidimmer_centralina_domotica_wifi_per_lattivazione/disattivazione_tramite_rilevamento_fisico_1693.html"
+    },
+    {
+        "title": "Proxiswitch - Sensore di prossimità per accendere/spegnere dispositivi tramite tocco/battito mani",
+        "description": "proxiSwitch è uno straordinario sensore di prossimità che ti consente di accendere / spegnere i dispositivi utilizzando il tocco o i movimenti delle mani.Applicazione dedicata BleBox",
+        "price": "22,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1694_proxiswitch-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/proxiswitch_sensore_di_prossimita_per_accendere/spegnere_dispositivi_tramite_tocco/battito_mani_1694.html"
+    },
+    {
+        "title": "TwilightSwitch - Centralina Domotica WiFi per controllare a distanza interruttori",
+        "description": "twilightSwitch è il più piccolo controller di interruttore economico per gestire l'illuminazione LED.Applicazione dedicata BleBox",
+        "price": "14,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1698_twilightswitch-centralinadomoticawifiperautomazione.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/twilightswitch_centralina_domotica_wifi_per_controllare_a_distanza_interruttori_1698.html"
+    },
+    {
+        "title": "AirSensor - sensore di qualità dell'aria",
+        "description": "airSensor è il tuo sensore di qualità dell'aria personale: ti tiene informato sulla presenza di polvere nociva sospesa in casa e fuori.Applicazione dedicata BleBox",
+        "price": "109,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/1697_airsensor-sensorediqualitadellaria.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/airsensor_sensore_di_qualita_dellaria_1697.html"
+    },
+    {
+        "title": "TempSensor - sensore di temperatura",
+        "description": "TempSensor è il tuo sensore di temperatura Celsius con cronologia di un anno ed annesso grafico.\r\nRileva la temperatura da 55° a 125°Applicazione dedicata BleBox",
+        "price": "34,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2164_tempsensor-sensoreditemperatura.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/tempsensor_sensore_di_temperatura_2164.html"
+    },
+    {
+        "title": "Sonoff B02-B-A60 Lampadina smart white",
+        "description": "SONOFF WiFi Lampadina LED Smart a baionetta B02-B-A60, E27, 9W, 806Lm, doppio colore, luminosità e temperatura del colore regolabili tramite Alexa, controllo APP.Applicazione dedicata eWLink",
+        "price": "6,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2489_sonoffb02-b-a60lampadinasmartwhite.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_b02ba60_lampadina_smart_white_2489.html"
+    },
+    {
+        "title": "Sonoff DUAL R3 Switch smart WIFI 2 canali PER TAPPARELLE",
+        "description": "Interruttore Della Luce Intelligente, SONOFF DUAL R3 2-Gang 2-Way Smart Interruttore Wi-Fi Sostieni Alexa e Siri, Misurazione della potenza, 3 modalità di lavoro, funziona con porte da persianeApplicazione dedicata eWLink",
+        "price": "24,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2495_sonoffdualr3switchsmartwifi2canalipertapparelle.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_dual_r3_switch_smart_wifi_2_canali_per_tapparelle_2495.html"
+    },
+    {
+        "title": "Sonoff B05-B-A60 Lampadina smart RGB",
+        "description": "SONOFF Lampadina Smart Con Luce Soffusa 2700k-6500k, RGB. Controllabile tramite WiFi luminosità e temperatura del colore, supportato Alexa, 2.4G wifi ed APP, A+Applicazione dedicata eWLink",
+        "price": "9,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2504_sonoffb05-b-a60lampadinasmartrgb.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_b05ba60_lampadina_smart_rgb_2504.html"
+    },
+    {
+        "title": "Sonoff  5050RGB-2M prolunga striscia led 2 metri",
+        "description": "Prolunga per kit Sonoff led wifi. Sono luci in striscia per casa, intelligente, impermeabile ed anche rgb. Quando la lunghezza del kit non basta.Applicazione dedicata eWLink",
+        "price": "9,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2502_sonoff5050rgb-2mprolungastriscialed2metri.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_5050rgb2m_prolunga_striscia_led_2_metri_2502.html"
+    },
+    {
+        "title": "Sonoff 5050RGB-5M prolunga striscia led 5 metri",
+        "description": "Prolunga per kit Sonoff led wifi. Sono luci in striscia per casa, intelligente, impermeabile ed anche rgb. Quando la lunghezza del kit non basta.Applicazione dedicata eWLink",
+        "price": "14,90",
+        "image_url": "https://www.letapparelle.com/img/prodotti/big/2503_sonoflf5050rgb-5mprolungastriscialed5metri.jpg",
+        "link": "https://www.letapparelle.com/centraline_e_domotica/sonoff_5050rgb5m_prolunga_striscia_led_5_metri_2503.html"
+    }
+]

@@ -1,0 +1,68 @@
+version: "3.1"
+
+intents:
+  - generate_tapparella_quote
+  - inform_dimensione
+  - inform_materiale
+  - inform_colore
+  - affirm
+  - deny
+  - confirm_tapparella
+  - change_tapparella
+
+entities:
+  - dimensione
+  - materiale
+  - colore
+  - accessori
+
+slots:
+  dimensione:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: dimensione
+
+  materiale:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: materiale
+
+  colore:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: colore
+
+  accessori:
+    type: list
+    mappings:
+      - type: from_text
+
+forms:
+  tapparella_quote_form:
+    required_slots:
+      - dimensione
+      - materiale
+      - colore
+
+responses:
+  utter_ask_dimensione:
+    - text: "Quali sono le dimensioni della tapparella? (es. 120x100)"
+
+  utter_ask_materiale:
+    - text: "Quale materiale ha la tapparella? (alluminio, pvc, acciaio...)"
+
+  utter_ask_colore:
+    - text: "Di che colore vuoi la tapparella?"
+
+  utter_confirm_tapparella_quote:
+    - text: "Ecco il tuo preventivo per la tapparella con le specifiche fornite."
+
+  utter_goodbye:
+    - text: "Grazie per aver richiesto un preventivo! Se hai bisogno di altro, sono qui! 😊"
+
+actions:
+  - action_generate_tapparella_quote
+  - validate_tapparella_quote_form

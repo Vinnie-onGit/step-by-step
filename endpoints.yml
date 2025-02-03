@@ -1,0 +1,29 @@
+action_endpoint:
+  url: "http://localhost:5055/webhook"  # Indirizzo per le azioni personalizzate
+
+# nlg:
+#   url: "http://localhost:5005/nlg"  # (Opzionale) Se usi un generatore di linguaggio personalizzato
+
+# tracker_store:
+#   type: mongod
+#   url: "mongodb+srv://superuser:P_BiPX86Emj6nHT@cluster0.eenv7.mongodb.net/"
+#   db: "rasa_tracker"
+#   username: "superuser"
+#   password: "P_BiPX86Emj6nHT"
+#   auth_source: "admin"
+
+# event_broker:
+#   type: "pika"
+#   url: "localhost"
+#   username: "guest"
+#   password: "guest"
+#   queue: "rasa_events"
+
+rest:
+  # Abilita il canale REST per comunicare con l'API
+
+cors:
+  enabled: true
+  allow_origins:
+    - "http://localhost:5173"  # URL della chat (React/Vue)
+    # - "https://mio-sito.com"   # URL in produzione

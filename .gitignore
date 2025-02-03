@@ -1,0 +1,50 @@
+# Escludere gli ambienti virtuali
+.venv/
+venv/
+env/
+
+# Escludere file di dataset temporanei e output scraping
+dataset/*.json
+!dataset/motori_tapparelle.json  # Mantieni solo i file utili
+
+# Escludere i file di cache di Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Escludere file di log e debug
+logs/
+*.log
+*.out
+*.err
+
+# Escludere file di training temporanei e modelli compilati
+models/
+*.tar.gz
+*.pkl
+*.db
+
+# Escludere file di configurazione locali
+config/
+credentials.yml
+secrets.env
+
+# Escludere i file di Rasa generati durante l’addestramento
+*.rasa
+*.rasa.cache
+*.rasa.tmp
+.cache/
+data/.rasa/
+data/.cache/
+
+# Escludere file di debugging di Jupyter
+.ipynb_checkpoints/
+
+# Escludere file di sistema e IDE
+.DS_Store
+.vscode/
+.idea/

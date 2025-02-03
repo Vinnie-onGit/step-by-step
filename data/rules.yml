@@ -1,0 +1,20 @@
+version: "3.1"
+
+rules:
+  - rule: Attiva il form per il preventivo tapparella
+    steps:
+      - intent: generate_tapparella_quote
+      - action: tapparella_quote_form
+      - active_loop: tapparella_quote_form
+
+  - rule: Completa il form e genera il preventivo
+    condition:
+      - active_loop: tapparella_quote_form
+    steps:
+      - slot_was_set:
+          - dimensione: true
+          - materiale: true
+          - colore: true
+      - active_loop: null
+      - action: action_generate_tapparella_quote
+      - action: action_listen

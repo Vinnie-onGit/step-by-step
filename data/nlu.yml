@@ -1,0 +1,60 @@
+version: "3.1"
+
+nlu:
+  - intent: generate_tapparella_quote
+    examples: |
+      - Voglio un preventivo per una tapparella
+      - Quanto costa una tapparella?
+      - Mi serve una tapparella su misura
+      - Vorrei sapere il prezzo di una tapparella
+
+  - intent: inform_dimensione
+    examples: |
+      - La tapparella è [120x100](dimensione)
+      - Le dimensioni sono [150x120](dimensione)
+
+  - intent: inform_materiale
+    examples: |
+      - È in [alluminio](materiale)
+      - Il materiale è [PVC](materiale)
+
+  - intent: inform_colore
+    examples: |
+      - Il colore della tapparella deve essere [rosso](colore)
+      - Vorrei una tapparella di colore [blu](colore)
+      - Puoi configurare una tapparella in [verde](colore)?
+      - La tapparella la voglio [giallo](colore)
+
+
+  - intent: confirm_tapparella
+    examples: |
+      - Sì, conferma
+      - Ok
+      - Va bene questa tapparella
+
+  - intent: change_tapparella
+    examples: |
+      - Voglio cambiare opzioni
+      - Modifica la configurazione
+
+
+  # Lookup eventuali
+
+  - lookup: colore
+    examples: |
+      - rosso
+      - blu
+      - verde
+      - giallo
+      - bianco
+      - nero
+      - azzurro
+      - marrone
+
+  # sinonimi ausiliarie alle lookup
+  
+  - synonym: blu
+    examples: |
+      - azzurro
+      - celeste
+      - blu chiaro
