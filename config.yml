@@ -1,10 +1,8 @@
-recipe: default.v1
 language: it
-
 
 pipeline:
   - name: SpacyNLP
-    model: it_core_news_sm
+    model: it_core_news_md
   - name: SpacyTokenizer
   - name: SpacyFeaturizer
   - name: RegexFeaturizer

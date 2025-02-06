@@ -78,12 +78,66 @@ class ValidateTapparellaQuoteForm(FormValidationAction):
         dispatcher.utter_message(text="⚠️ Puoi fornire le dimensioni nel formato corretto? (es. 120x100)")
         return {"dimensione": None}
 
-
+    # async def validate_materiale (
+    #     slef, slot_value: Any, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict [Text, Any]
+    # ) -> Dict[Text, Any]:
+    #     """Valida il materiale fornito dall'utente"""
+        
+        
     async def validate_colore(
         self, slot_value: Any, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]
     ) -> Dict[Text, Any]:
-        """Se l'utente ha fornito il colore, chiudiamo il form"""
-        if slot_value:
-            return {"colore": slot_value}
-        dispatcher.utter_message(text="⚠️ Per favore, scegli un colore valido.")
-        return {"colore": None}
+        colore = str(slot_value).strip().lower() if slot_value else ""
+        if not colore:
+            dispatcher.utter_message(text="⚠️ Per favore, inserisci un colore valido.")
+            return {"colore": None}
+        
+        # Interroga la collezione varianti per verificare i colori ammessi
+        response = api_service.get("varianti", params={"categoria": "tapparella"})
+        if "data" in response:
+            colori_ammessi = [doc.get("name", "").strip().lower() for doc in response["data"]]
+            if colore in colori_ammessi:
+                return {"colore": colore}
+            else:
+                dispatcher.utter_message(
+                    text="⚠️ Il colore inserito non è valido. I colori ammessi sono: " + ", ".join(colori_ammessi)
+                )
+                return {"colore": None}
+        else:
+            dispatcher.utter_message(text="⚠️ Errore nel recupero dei colori ammessi. Riprova più tardi.")
+            return {"colore": None}
+        
+        
+class ActionAskColoreTapparella (Action) :
+    
+    def name (self):
+        return "action_ask_colore_tapparella"
+    
+    def run (self, 
+             dispatcher: CollectingDispatcher, 
+             tracker: Tracker, 
+             domain: Dict[Any, Text]
+            )->List[Dict[Text, Any]]:
+                
+        materiale = tracker.get_slot ("materiale")
+        if not materiale:
+            dispatcher.utter_message ("Non hai specificato il materiale della tapparella.")
+            return []
+        
+        materiale_lower = materiale.strip().lower()
+        
+        response = api_service.get ("colori_tapparelle", params = {"materiale": materiale_lower})
+        
+        colori_disponibili = response["data"]
+        
+        if not response or "data" not in response:
+            dispatcher.utter_message (text="Errore nel recupero dei colori")
+        
+        message = f"I colori disponibili per le tapparelle in {materiale} sono:\n"
+        for colore_doc in colori_disponibili:
+            valore_colore += colore_doc.get["color", "N\D"]
+            message += f"• {valore_colore}\n"
+        message+= "\n Scegli pure il colore che preferisci!"
+        
+        dispatcher.utter_message (text=message)
+        return []

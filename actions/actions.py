@@ -30,7 +30,9 @@ class ActionGeneratePreventivo(Action):
         dimensione = tracker.get_slot("dimensione")
         materiale = tracker.get_slot("materiale")
         colore = tracker.get_slot("colore")
+        
         print (colore) # debug
+        
         manovra = tracker.get_slot("manovra")
         motore_selezionato = tracker.get_slot("motore")
         pulsante = tracker.get_slot("pulsante")
@@ -163,5 +165,3 @@ class ValidatePreventivoTapparellaForm(FormValidationAction):
         
         dispatcher.utter_message(text="Non ho capito la scelta del pulsante, puoi ripetere?")
         return {"pulsante": None}
-    
- 

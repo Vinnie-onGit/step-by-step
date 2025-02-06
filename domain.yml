@@ -9,7 +9,8 @@ intents:
   - deny
   - confirm_tapparella
   - change_tapparella
-
+  - ask_color_options
+  
 entities:
   - dimensione
   - materiale
@@ -66,3 +67,5 @@ responses:
 actions:
   - action_generate_tapparella_quote
   - validate_tapparella_quote_form
+  - action_ask_colore_tapparella
+

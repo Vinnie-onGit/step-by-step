@@ -49,3 +49,24 @@ class ApiService:
         """Recupera i motori dalla API in base alla potenza minima"""
         response = requests.get(f"{self.base_url}/motori", params={"potenza_min": potenza_min})
         return response.json().get("prodotti", [])
+    
+    def get_colori (self, materiale : str):
+        if materiale == "alluminio coibentato":
+            response = requests.get (f"{self.base_url}/colori", params=materiale)
+            return response.json().get("colori", [])
+        if materiale == "pvc":
+            response = requests.get(f"{self.base_url}/colori", params=materiale)
+            return response.json().get("colori", [])
+    
+    def get_colore (self, materiale: str, colore : str):
+        lista_colori = []
+        colori = []
+        if materiale == "alluminio coibentato":
+            lista_colori = self.get_colori ("alluminio")
+        elif materiale == "pvc":
+            lista_colori = self.get_colori(materiale)
+            
+        for colore in lista_colori :
+            if colore in lista_colori:
+                colori.append (colori)
+        return colori 

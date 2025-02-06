@@ -7,16 +7,33 @@ nlu:
       - Quanto costa una tapparella?
       - Mi serve una tapparella su misura
       - Vorrei sapere il prezzo di una tapparella
+      - Mi serve un preventivo per una tapparella
+      - Calcola il prezzo per una tapparella
+      - Vorrei un preventivo per una tapparella su misura
 
   - intent: inform_dimensione
     examples: |
       - La tapparella è [120x100](dimensione)
       - Le dimensioni sono [150x120](dimensione)
+      - [120x100] (dimensione)
+      - Le dimensioni sono [120x100] (dimensione)
+      - [130x120] (dimensione)
 
   - intent: inform_materiale
     examples: |
       - È in [alluminio](materiale)
       - Il materiale è [PVC](materiale)
+      - La voglio in [PVC] (materiale)
+      - Il materiale è [PVC] (materiale)
+      - Preferisco [PVC] (materiale)
+      - [PVC] (materiale)
+
+  - intent: ask_color_options
+    examples: |
+      - Mostrami i colori disponibili
+      - Quali sono le opzioni di colore?
+      - Dimmi i colori che ci sono
+      - Voglio vedere i colori disponibili
 
   - intent: inform_colore
     examples: |
@@ -25,6 +42,19 @@ nlu:
       - Puoi configurare una tapparella in [verde](colore)?
       - La tapparella la voglio [giallo](colore)
 
+  - intent: affirm
+    examples: |
+      - Sì
+      - Va bene
+      - Ok
+      - Confermo
+
+  - intent: deny
+    examples: |
+      - No
+      - Non va bene
+      - Non mi piace
+      - Per niente
 
   - intent: confirm_tapparella
     examples: |

@@ -6,13 +6,14 @@ stories:
       - intent: generate_tapparella_quote
       - action: tapparella_quote_form
       - active_loop: tapparella_quote_form
-      - slot_was_set:
-          - dimensione: true
-          - materiale: true
-          - colore: true
+      - active_loop: tapparella_quote_form
+      # L'utente fornisce dimensione, materiale e colore (o in alternativa, se manca il colore, il form potrebbe attivare action_ask_colore_tapparella)
+      - intent: inform_dimensione
+      - intent: inform_materiale
+      - intent: ask_color_options
+      - action: action_ask_colore_tapparella
+      - intent: inform_colore
       - active_loop: null
       - action: action_generate_tapparella_quote
       - intent: confirm_tapparella
       - action: utter_goodbye
-      # - active_loop: null
-
