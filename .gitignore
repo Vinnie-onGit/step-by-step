@@ -1,6 +1,7 @@
 # Escludere gli ambienti virtuali
 .venv/
 venv/
+.rasa_env/
 env/
 
 # Escludere file di dataset temporanei e output scraping
