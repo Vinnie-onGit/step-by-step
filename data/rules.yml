@@ -1,7 +1,7 @@
 version: "3.1"
 
 rules:
-  - rule: Attiva il form per il preventivo tapparella
+  - rule: Attiva il form per il preventivo delle tapparelle
     steps:
       - intent: generate_tapparella_quote
       - action: tapparella_quote_form
@@ -10,11 +10,21 @@ rules:
   - rule: Completa il form e genera il preventivo
     condition:
       - active_loop: tapparella_quote_form
-    steps:
       - slot_was_set:
-          - dimensione: true
+          - dimensioni: true
           - materiale: true
           - colore: true
+    steps:
       - active_loop: null
       - action: action_generate_tapparella_quote
       - action: action_listen
+
+
+  - rule: Elenca tapparelle disponibili
+    steps:
+      - intent: inform_tapparelle
+      - action: action_list_tapparelle
+      - action: utter_list_tapparelle
+      - action: action_listen
+  
+# mostrami la lista delle tapparelle disponibili

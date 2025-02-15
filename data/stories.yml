@@ -1,19 +1,16 @@
-version: "3.1"
+# version: "3.1"
 
-stories:
-  - story: Preventivo per una tapparella
-    steps:
-      - intent: generate_tapparella_quote
-      - action: tapparella_quote_form
-      - active_loop: tapparella_quote_form
-      - active_loop: tapparella_quote_form
-      # L'utente fornisce dimensione, materiale e colore (o in alternativa, se manca il colore, il form potrebbe attivare action_ask_colore_tapparella)
-      - intent: inform_dimensione
-      - intent: inform_materiale
-      - intent: ask_color_options
-      - action: action_ask_colore_tapparella
-      - intent: inform_colore
-      - active_loop: null
-      - action: action_generate_tapparella_quote
-      - intent: confirm_tapparella
-      - action: utter_goodbye
+# stories:
+#   - story: Preventivo per una tapparella (completa)
+#     steps:
+#       - intent: generate_tapparella_quote
+#       - action: tapparella_quote_form
+#       - active_loop: tapparella_quote_form
+#       - intent: inform_dimensioni
+#       - intent: inform_materiale
+#       - intent: inform_colore
+#       - active_loop: null
+#       - action: action_generate_tapparella_quote
+#       - intent: confirm_tapparella
+#       - action: utter_confirm_tapparella_quote
+#       - action: utter_goodbye

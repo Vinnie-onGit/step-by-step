@@ -1,5 +1,7 @@
 rasa
+rasa-sdk
 requests
 beautifulsoup4
 fuzzywuzzy
 python-dotenv
+requests

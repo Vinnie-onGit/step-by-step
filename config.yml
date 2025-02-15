@@ -2,9 +2,9 @@ language: it
 
 pipeline:
   - name: SpacyNLP
-    model: it_core_news_md
+    model: it_core_news_lg
   - name: SpacyTokenizer
-  - name: SpacyFeaturizer
+  - name: SpacyFeaturizer # è lui a richiamare nuovamente il modello. Nullla di preoccupante, fa parte della natura modulare id Rasa Framework.
   - name: RegexFeaturizer
   - name: LexicalSyntacticFeaturizer
   - name: CountVectorsFeaturizer
